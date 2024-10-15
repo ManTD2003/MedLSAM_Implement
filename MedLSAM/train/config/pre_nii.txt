@@ -1,0 +1,2 @@
+C:\Users\mantr\Downloads\ModelMedLSAM\Tumor\Data\Nifti_Output\2b\image_pre.nii.gz
+C:\Users\mantr\Downloads\ModelMedLSAM\Tumor\Data\Nifti_Output\3b\image_pre.nii.gz
